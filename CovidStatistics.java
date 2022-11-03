@@ -1,8 +1,8 @@
 /**
  * Student Name: Daksh Sharma
- * Student Number: 041055714
- * Section: 304
- * Lab professor: Hesham Saadhvi
+ * Student Number: 
+ * Section: 
+ * Lab professor: 
  * Due date: 23/09/2022
  * Description: Generating Javadoc Lab 2
  * Purpose: We have to output the result according to the lab2 instruction.
